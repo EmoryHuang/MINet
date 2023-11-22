@@ -1,0 +1,11 @@
+__pycache__/
+
+Datasets/
+Model/
+figure/
+
+figure_draw.py
+KGEmbedding.py
+
+*.log
+*.ipynb
